@@ -1,8 +1,10 @@
-Hi, I’m @rmahinpei!
-I’m interested in exploring new programming languages by taking on a variety of projects.
-I’m currently learning to build a website with JavaScript (on the back-end) and CSS (on the front-end).
-You can always reach me by emailing me: romina.mahinpei@yahoo.com.
-Happy coding! 
+Hello, I’m Romina Mahinpei!
+- I’m interested in exploring ML & AI.
+- I’m currently learning C & C++.
+- I'm always looking to collaborate with others on new projects.
+- Ask me about Java & software engineering.
+- Pronouns: She/her 
+- Fun fact: I am celiac!
 
 <!---
 rmahinpei/rmahinpei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
