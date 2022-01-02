@@ -1,9 +1,14 @@
-Hello, I’m Romina Mahinpei (she/her)!
+## Hello, I’m Romina Mahinpei (she/her)!
+Thank you for taking the time to check my GitHub. Before diving into my projects, here are a few facts about me:
 - I’m interested in exploring ML & AI.
 - I’m currently learning C & C++.
 - I'm always looking to collaborate with others on new projects.
 - Ask me about Java & software engineering.
 - Fun fact: I am celiac!
+Feel free to contact with me - I am always open to new conversations!
+- [Email](mailto:[romina.mahinpei@yahoo.com])
+- [LinkedIn](https://www.linkedin.com/in/romina-mahinpei/)
+- [FaceBook](https://www.facebook.com/Romina.Mahinpei")
 
 <!---
 rmahinpei/rmahinpei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
