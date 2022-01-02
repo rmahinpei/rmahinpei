@@ -1,9 +1,8 @@
-Hello, I’m Romina Mahinpei!
+Hello, I’m Romina Mahinpei (she/her)!
 - I’m interested in exploring ML & AI.
 - I’m currently learning C & C++.
 - I'm always looking to collaborate with others on new projects.
 - Ask me about Java & software engineering.
-- Pronouns: She/her 
 - Fun fact: I am celiac!
 
 <!---
