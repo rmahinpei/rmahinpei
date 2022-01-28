@@ -5,7 +5,7 @@ Thank you for taking the time to check my GitHub. Before diving into my projects
 - Fun fact: I am celiac!
 
 
-Feel free to contact with me - I am always open to new conversations! You can [email](mailto:[romina.mahinpei@yahoo.com]) me, find me on [LinkedIn](https://www.linkedin.com/in/romina-mahinpei/) or reach me on [FaceBook](https://www.facebook.com/Romina.Mahinpei").
+Feel free to contact with me - I am always open to new conversations! You can [email](mailto:[romina.mahinpei@yahoo.com]) me or find me on [LinkedIn](https://www.linkedin.com/in/romina-mahinpei/).
 
 <!---
 rmahinpei/rmahinpei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
